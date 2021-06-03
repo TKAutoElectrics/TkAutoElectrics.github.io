@@ -1195,7 +1195,7 @@ nav.main-menu {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header-top {
-     background: url(../images/banner1.jpg);
+     background: url(../images/BlurBackground.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
@@ -1291,7 +1291,13 @@ nav.main-menu {
 
 .text-img figure {
   margin-left: auto;
+  height: 400px;
+  width: 400px;
+}
 
+.text-img img {
+  border-radius: 5px;
+  border: 5px solid black;
 }
 
 .contact {
@@ -1418,10 +1424,15 @@ nav.main-menu {
      margin-bottom: 60px;
 }
 
-.Features .games-box figure {
+.Features .service-box figure {
      margin: 0px;
 }
 
+.service-box img {
+  width: 500px;
+  height: 500px;
+
+}
 .padding-right1 {
      padding-left: 0;
      padding-right: 0;
@@ -1454,7 +1465,7 @@ nav.main-menu {
 .titlepage p {
      font-size: 17px;
      line-height: 30px;
-     color: #ffffff;
+     color: #000;
      padding-bottom: 60px;
 }
 
