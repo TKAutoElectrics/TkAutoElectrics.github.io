@@ -1635,8 +1635,8 @@ nav.main-menu {
 }
 
 .rable-box figure img {
-     width: 100%;
-     min-height: 678px;
+    height: 650px;
+    width: auto;
 }
 
 .nice-select {
