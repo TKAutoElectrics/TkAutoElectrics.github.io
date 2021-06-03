@@ -1474,6 +1474,10 @@ nav.main-menu {
 
 
 /** Our section **/
+.carousel-inner img {
+  height: 500px;
+  width: 500px;
+}
 
 .Our {
      padding-top: 90px;
